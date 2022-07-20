@@ -1,16 +1,12 @@
-gym management system
-===================
+Installation Steps
+1. Download zip file and Unzip file on your local server.
+2. Put this file inside "c:/xampp/htdocs/" .
+3. Database Configuration
+Open phpmyadmin
+Create Database named Table.
+Import database Table.sql from downloaded folder(inside database)
+4. Open Your browser put inside "http://localhost/project folder name/"
 
-Gym Management System
-
-This the my gym management system it is made using PHP,CSS,HTML,Jquery,Twitter Bootstrap.
-All sql table info can be found in table.sql.
-
-
-more free projects
-
-click here - https://projectworlds.in
-
-
-YouTube Demo - https://youtu.be/J_7G_AahgSw
-
+Admin Login Details
+Login Id: admin@admin.com
+Password: Admin123
